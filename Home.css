@@ -1,0 +1,237 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 896px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 461px;
+  height: 696px;
+  background-image: linear-gradient(#adcce9, #f1b5b8);
+  margin: 50px auto 0 285px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 621px;
+  min-height: 621px;
+  margin: -651px auto 0 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 20px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  margin: 45px 152px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 1px;
+  font-size: 1rem;
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 30px auto 0 0;
+  padding: 15px 41px 16px 40px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 452px;
+  height: 636px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+  margin: -636px 118px 0 auto;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 45px;
+  min-height: 16px;
+  width: 156px;
+  min-width: 68px;
+  margin: 80px auto 55px;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-1 .u-icon-3 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-shape-1 {
+    height: 648px;
+    margin-right: 194px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 516px;
+    margin-top: -621px;
+    margin-left: 27px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 4.0625rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+    width: auto;
+    margin-right: 95px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 392px;
+    height: 551px;
+    margin-top: -600px;
+    margin-right: 104px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-shape-1 {
+    width: 387px;
+    height: 741px;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: 152px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 533px;
+    margin-top: -353px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 312px;
+    height: 439px;
+    margin-top: -879px;
+    margin-right: auto;
+    margin-left: 189px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    height: 33px;
+    width: 120px;
+    margin-top: 331px;
+    margin-bottom: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-shape-1 {
+    width: 302px;
+    height: 575px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -250px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 67px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 43px;
+    margin-right: 95px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 250px;
+    height: 353px;
+    margin-top: -814px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    margin-top: 353px;
+    margin-right: -14px;
+    margin-bottom: 35px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1020px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 203px;
+    height: 372px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 611px;
+    margin-top: -73px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: 65px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 116px;
+    margin-right: 161px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 237px;
+    height: 336px;
+    margin-top: -892px;
+    margin-left: 14px;
+  }
+
+  .u-section-1 .u-social-icons-1 {
+    height: 35px;
+    width: 125px;
+    margin-top: 511px;
+    margin-right: auto;
+    margin-bottom: 42px;
+  }
+}
